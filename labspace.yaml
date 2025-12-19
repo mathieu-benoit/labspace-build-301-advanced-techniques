@@ -6,6 +6,6 @@ sections:
   - title: Introduction
     contentPath: .labspace/01-introduction.md
   - title: Main Content 1
-    contentPath: .labspace/02-main-content.md
+    contentPath: .labspace/02-init.md
   - title: Conclusion
-    contentPath: .labspace/03-conclusion.md
+    contentPath: .labspace/03-multi-stage.md
